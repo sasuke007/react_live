@@ -13,5 +13,6 @@ const heading = React.createElement("h1",
     {
         id: "title"
     },
-    "Heading 2");
+    "Heading 2"
+);
 
