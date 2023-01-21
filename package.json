@@ -1,0 +1,20 @@
+{
+  "name": "react_live",
+  "version": "1.0.0",
+  "description": "Learning React",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Rohit Pandit",
+  "license": "ISC",
+  "devDependencies": {
+    "bundle": "^2.1.0",
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
