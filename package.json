@@ -2,8 +2,9 @@
   "name": "react_live",
   "version": "1.0.0",
   "description": "Learning React",
-  "main": "App.js",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "author": "Rohit Pandit",
@@ -14,6 +15,7 @@
     "process": "^0.11.10"
   },
   "dependencies": {
+    "package.json": "^2.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
